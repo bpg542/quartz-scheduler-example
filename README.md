@@ -1,2 +1,2 @@
-# quartz-scheduler-example
-Quartz Scheduler - Example
+# Quartz Scheduler - Example
+
